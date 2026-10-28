@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-tau-cyan-dduqak8eyp.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/devender-singh-bohra/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://aroundme.co"><img alt="aroundme.co" src="https://img.shields.io/badge/aroundme.co-4f46e5?style=for-the-badge&logo=googlemaps&logoColor=white" /></a>
   <a href="https://www.kaggle.com/code/devenderbohra/aroundme-ai-social-connection-platform"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
@@ -26,7 +25,6 @@
 const devender = {
   role:        "Product Manager (Technical) @ Hubject",
   based:       "Irvine, CA",
-  openTo:      "Relocation, anywhere in the US",
   building:    ["danceworkout.ai", "aroundme.co", "Mars, my personal AI assistant"],
   thinksIn:    ["multi-agent systems", "RAG", "intent routing", "LLM evaluation"],
   rule:        "If it can't be measured, it doesn't ship.",
@@ -44,7 +42,7 @@ By day I'm a Product Manager at Hubject. Outside work I build my own products, e
   <tr>
     <td width="50%" valign="top">
       <h4>💃 <a href="https://danceworkout.ai">danceworkout.ai</a></h4>
-      The dance workout you actually stick with: one 15-minute dance a day, an AI coach that keeps you going, and a video that shows you're improving. iPhone and Android, launching January 2027.
+      The dance workout you actually stick with: one 15-minute dance a day, an AI coach that keeps you going, and a video that shows you're improving. For iPhone and Android.
       <ul>
         <li>The phone does the heavy work, so running costs stay tiny as it grows</li>
         <li>Health answers and camera video stay on the phone</li>
@@ -62,7 +60,6 @@ By day I'm a Product Manager at Hubject. Outside work I build my own products, e
         <li>The model has one job: compose the groups</li>
         <li>Safety rules stay in plain code, and a separate check rejects any bad group</li>
         <li>If the model times out, invites still go out</li>
-        <li><b>Jarvis</b>, a voice room of five role-scoped AI agents, helps run it: <b>96%</b> on a 105-case adversarial routing test</li>
       </ul>
     </td>
   </tr>
@@ -73,7 +70,6 @@ By day I'm a Product Manager at Hubject. Outside work I build my own products, e
       <ul>
         <li>Talks by voice and can put me through to other agents</li>
         <li>Learns by interviewing me</li>
-        <li>Personal data stays on my own Mac</li>
       </ul>
       <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -92,11 +88,7 @@ By day I'm a Product Manager at Hubject. Outside work I build my own products, e
 | | |
 |:--|:--|
 | 🥈 **2nd of 6,153** | Google × Kaggle GenAI Intensive capstone, 2025 |
-| 🎯 **85%** | fewer false matches, from an adaptive questioning agent |
-| 🧪 **96%** | on a 105-case adversarial test set for Jarvis's voice routing |
-| 🤝 **20+** | enterprise partners onboarded, including Toyota, Porsche and Mercedes-Benz |
-| ⚡ **~30%** | less integration time for partners at Hubject |
-| 🎉 **550 users** | in 3 weeks, from 110 campus meetups at UCR |
+| 🏛️ **NSF grant** | from the National Science Foundation, for aroundme.co |
 | 💼 **Profitable** | GrowVation, bootstrapped: 1,400+ placements, 20,000+ users |
 
 ---
