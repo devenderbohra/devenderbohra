@@ -1,4 +1,4 @@
-<!-- Profile README for github.com/devenderbohra. Facts come from portfolio/docs/CONTENT.md; no em dashes, US spelling. -->
+<!-- Profile README for github.com/devenderbohra. No em dashes, US spelling. -->
 
 <img width="100%" alt="Devender Singh Bohra, AI Product Manager" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4f46e5,100:06b6d4&height=210&section=header&text=Devender%20Singh%20Bohra&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=AI%20Product%20Manager%20who%20builds&descSize=18&descAlignY=56&animation=fadeIn" />
 
