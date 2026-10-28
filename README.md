@@ -121,12 +121,12 @@ By day I'm a Product Manager at Hubject. Outside work I build my own products, e
 ### 📊 Activity
 
 <p align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=devenderbohra&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&bg_color=0f172a&title_color=6366f1&icon_color=06b6d4" />
-  <img height="165" alt="GitHub streak" src="https://streak-stats.demolab.com?user=devenderbohra&hide_border=true&theme=tokyonight&background=0f172a&ring=6366f1&fire=06b6d4&currStreakLabel=6366f1" />
+  <img width="100%" alt="Contributions over the past year" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
 </p>
 
 <p align="center">
-  <img width="100%" alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=devenderbohra&hide_border=true&bg_color=0f172a&color=a5b4fc&line=6366f1&point=06b6d4&area=true&area_color=4f46e5" />
+  <img height="165" alt="GitHub stats" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img height="165" alt="GitHub streak" src="https://streak-stats.demolab.com?user=devenderbohra&hide_border=true&theme=tokyonight&background=0f172a&ring=6366f1&fire=06b6d4&currStreakLabel=6366f1" />
 </p>
 
 <p align="center">
