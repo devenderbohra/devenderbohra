@@ -3,7 +3,7 @@
 <img width="100%" alt="Devender Singh Bohra, AI Product Manager" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4f46e5,100:06b6d4&height=210&section=header&text=Devender%20Singh%20Bohra&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=AI%20Product%20Manager%20who%20builds&descSize=18&descAlignY=56&animation=fadeIn" />
 
 <p align="center">
-  <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=6366F1&center=true&vCenter=true&width=640&lines=I+design%2C+ship%2C+and+personally+build+AI+products.;Product+Manager+(Technical)+%40+Hubject;Building+aroundme.co+on+the+side;2nd+of+6%2C153+in+the+Google+x+Kaggle+GenAI+capstone" />
+  <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=6366F1&center=true&vCenter=true&width=640&lines=I+design%2C+ship%2C+and+personally+build+AI+products.;Product+Manager+(Technical)+%40+Hubject;Building+danceworkout.ai%2C+aroundme.co+and+Mars;2nd+of+6%2C153+in+the+Google+x+Kaggle+GenAI+capstone" />
 </p>
 
 <p align="center">
@@ -27,14 +27,14 @@ const devender = {
   role:        "Product Manager (Technical) @ Hubject",
   based:       "Irvine, CA",
   openTo:      "Relocation, anywhere in the US",
-  building:    ["aroundme.co", "Jarvis, a five-agent AI team"],
+  building:    ["danceworkout.ai", "aroundme.co", "Mars, my personal AI assistant"],
   thinksIn:    ["multi-agent systems", "RAG", "intent routing", "LLM evaluation"],
   rule:        "If it can't be measured, it doesn't ship.",
   since:       2019,
 };
 ```
 
-At Hubject I proposed an AI support assistant, built it, and was promoted to own it. Outside work I'm building **aroundme.co**, a new way to make friends as an adult.
+By day I'm a Product Manager at Hubject. Outside work I build my own products, end to end.
 
 ---
 
@@ -43,39 +43,40 @@ At Hubject I proposed an AI support assistant, built it, and was promoted to own
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 AI support assistant · Hubject</h4>
-      Answers repetitive partner questions and hands the rest to the right person.
+      <h4>💃 <a href="https://danceworkout.ai">danceworkout.ai</a></h4>
+      The dance workout you actually stick with: one 15-minute dance a day, an AI coach that keeps you going, and a video that shows you're improving. iPhone and Android, launching January 2027.
       <ul>
-        <li>Routes each question by intent</li>
-        <li>Answers, flags, or asks, based on its own confidence</li>
-        <li>Never guesses: code, not the prompt, escalates</li>
-        <li>3-layer evals: checks → model-as-judge → humans</li>
+        <li>The phone does the heavy work, so running costs stay tiny as it grows</li>
+        <li>Health answers and camera video stay on the phone</li>
+        <li>Its own content pipeline for the move library</li>
       </ul>
+      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
     </td>
     <td width="50%" valign="top">
       <h4>🫂 <a href="https://aroundme.co">aroundme.co</a></h4>
       An AI-native way to make friends as an adult. One weekly invite to a group of 4 to 6 nearby people. No profiles. No swiping.
       <ul>
         <li>The model has one job: compose the groups</li>
-        <li>Safety rules stay in plain code</li>
-        <li>A separate check rejects any bad group</li>
+        <li>Safety rules stay in plain code, and a separate check rejects any bad group</li>
         <li>If the model times out, invites still go out</li>
+        <li><b>Jarvis</b>, a voice room of five role-scoped AI agents, helps run it: <b>96%</b> on a 105-case adversarial routing test</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🎙️ Jarvis · private</h4>
-      A voice room of five role-scoped AI agents (CTO, COO, CMO, chief of staff, trust &amp; safety) that read the live codebase before they answer.
+      <h4>🪐 Mars · private</h4>
+      My personal AI assistant, the Jarvis from Iron Man: it knows me, watches the systems I use, and says the thing worth saying.
       <ul>
-        <li>Permissions per seat: trust &amp; safety advises, never acts</li>
-        <li>105-case adversarial test set for voice routing, taken to <b>96%</b></li>
+        <li>Talks by voice and can put me through to other agents</li>
+        <li>Learns by interviewing me</li>
+        <li>Personal data stays on my own Mac</li>
       </ul>
+      <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     </td>
     <td width="50%" valign="top">
       <h4>🏆 <a href="https://www.kaggle.com/code/devenderbohra/aroundme-ai-social-connection-platform">Google × Kaggle GenAI capstone</a></h4>
@@ -103,7 +104,7 @@ At Hubject I proposed an AI support assistant, built it, and was promoted to own
 ### 🧰 Stack
 
 <p align="center">
-  <a href="https://skillicons.dev"><img alt="Python, TypeScript, FastAPI, PostgreSQL, AWS, GCP, GitHub" src="https://skillicons.dev/icons?i=py,ts,fastapi,postgres,aws,gcp,github&theme=dark" /></a>
+  <a href="https://skillicons.dev"><img alt="Python, TypeScript, React, FastAPI, PostgreSQL, Supabase, Firebase, AWS, GCP, GitHub" src="https://skillicons.dev/icons?i=py,ts,react,fastapi,postgres,supabase,firebase,aws,gcp,github&theme=dark" /></a>
 </p>
 
 <p align="center">
